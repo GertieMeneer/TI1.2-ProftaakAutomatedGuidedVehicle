@@ -13,3 +13,5 @@ Created by me and 3 other students
 
 ## Date
 Year 1, Period 2 | April 12, 2023 12:00pm
+
+![image](https://github.com/GertieMeneer/TI1.2-ProftaakAutomatedGuidedVehicle/blob/main/avg.JPG)
